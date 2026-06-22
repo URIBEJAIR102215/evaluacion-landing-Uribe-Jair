@@ -1,0 +1,28 @@
+:root {
+    --color-principal: #556B2F; 
+    --color-secundario: #E6D7B8; 
+    --color-claro: #FFFFFF;      
+    --color-texto: #2B2D2F;      
+    --color-fondo: #F9F8F6;      
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* para botones y tarjetas */
+.btn, .card-habitacion {
+    transition: all 0.3s ease-in-out;
+}
+
+/* imagenes */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
