@@ -1,15 +1,21 @@
-# Evaluación: Landing Page - Jair Uribe
+# Proyecto Landing Page - EcoParaiso Resort
 
-Este es el proyecto de mi landing page desarrollado para la evaluación práctica de frontend. El objetivo principal fue crear un sitio web limpio, funcional y que se adapte perfectamente a cualquier pantalla (celulares, tablets y computadoras).
+Este es el proyecto de la landing page para el hotel ecologico EcoParaiso Resort, hecho para la evaluacion. La pagina es responsive y funciona en celulares, tablets y computadoras.
 
-## Lo que usé en este proyecto
-* **HTML5** para toda la estructura y semántica.
-* **CSS3** para el diseño, los colores y hacer que sea responsivo.
-* **JavaScript** (si metiste algo de código aquí, lo dejas; si no, borra esta línea).
+## Integrantes
+* Jair Uribe
 
-## Cómo probarlo en tu compu
-Si quieres descargar el proyecto y verlo localmente, corre estos comandos en tu terminal:
+## Tecnologías que use
+* HTML5 (con etiquetas semanticas)
+* CSS3 (estilos propios para controlar las fotos)
+* Bootstrap 5 (para el menu y las columnas del diseño)
+* Font Awesome (para poner los iconos de las redes sociales)
 
-1. Clona el repositorio:
-```bash
-   git clone [https://github.com/URIBEJAIR102215/evaluacion-landing-Uribe-Jair.git](https://github.com/URIBEJAIR102215/evaluacion-landing-Uribe-Jair.git)
+## Como hacerlo funcionar
+1. Descargar o clonar la carpeta del proyecto.
+2. Abrir el archivo index.html en cualquier navegador como Google Chrome o usar Live Server en Visual Studio Code.
+
+## Notas de entrega
+* Las imagenes estan controladas con object-fit para que no se deformen en las tarjetas.
+* El formulario de contacto se cambio a metodo POST para enviar los datos de forma segura.
+* El footer tiene las letras corregidas en color claro para que haga buen contraste con el fondo negro.
